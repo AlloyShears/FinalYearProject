@@ -1,6 +1,6 @@
 # Starter base
 
-A starting point to help you set up your project quickly and use the common components provided by `react-native-reusables`. The idea is to make it easier for you to get started.
+A starting point to help you set up my project quickly and use the common components provided by `react-native-reusables`. This was used to get started faster.
 
 ## Features
 
