@@ -20,7 +20,7 @@ NativeWind: Tailwind CSS utility framework for styling.
 Weather API: For real-time weather updates.
 AI Chatbot: Provides intelligent task management assistance.
 
-File Structure
+**File Structure**
 
 App.js: The entry point of the application.
 components/: Reusable UI components.
@@ -29,7 +29,8 @@ assets/: Images, fonts, and other static assets.
 app.json: Expo configuration file.
 package.json: Project dependencies and scripts.
 
-Key features
+**Key features**
+
 Task Management: Create, edit, and manage tasks from the main dashboard.
 Weather Updates: Get weather forecasts within the app to better plan your day.
 Collaboration: Invite others to collaborate on tasks and projects.
